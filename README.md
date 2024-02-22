@@ -95,7 +95,7 @@ If you don't want to deploy node modules or any other file, simply put it inside
 
 > You Can Directly Start Contributing to this deployer in Cloud with ready to run, build & test the project.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/metacall/deploy)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/nshnt777/metacall-deploy)
 
 To use it on your forked repo, edit the 'Open in Gitpod' button url to `https://gitpod.io/#https://github.com/<my-github-username>/deploy`
 
